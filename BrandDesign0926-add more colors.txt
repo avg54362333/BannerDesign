@@ -1,0 +1,415 @@
+【html】
+.header
+  img.icon(src="https://upload.cc/i1/2019/09/24/cYnvUK.png", alt="")
+.content.content_skyblue
+  .max_width
+    h5 Style Guideline
+    h1 品牌網頁視覺引導-40px 大標題  
+    h1.small_english English Style duideline for h1 title
+      .title_hr
+    br
+    h2 品牌網頁視覺引導-30px 中標題 
+    h2.small_english English Style duideline for h1 title
+    br
+    h3 品牌網頁視覺引導-20px 小標題
+    h3.small_english English Style duideline for h1 title
+
+    hr
+    h5 VI COLORS
+    .color_chip
+      .color_tag #ffb336
+      .color_block.color_block_yellow
+    .color_chip
+      .color_tag #27232F
+      .color_block.color_block_blue
+    .color_chip
+      .color_tag #fffff
+      .color_block.color_block_white
+    .color_chip
+      .color_tag #f3f7f7
+      .color_block.color_block_grey
+    .color_chip
+      .color_tag #036EB8
+      .color_block.color_block_skyblue
+    h5 BUTTON EXAMPLE
+    .button 按鈕範例
+    .button.button_blue 按鈕範例
+    .button.button_yellow 按鈕範例 
+    
+.content.content_grey
+  .max_width
+    h5 Style Guideline
+    h1 品牌網頁視覺引導-40px 大標題  
+    h1.small_english English Style duideline for h1 title
+      .title_hr
+    br
+    h2 品牌網頁視覺引導-30px 中標題 
+    h2.small_english English Style duideline for h1 title
+    br
+    h3 品牌網頁視覺引導-20px 小標題
+    h3.small_english English Style duideline for h1 title
+
+    hr
+    h5 VI COLORS
+    .color_chip
+      .color_tag #ffb336
+      .color_block.color_block_yellow
+    .color_chip
+      .color_tag #27232F
+      .color_block.color_block_blue
+    .color_chip
+      .color_tag #fffff
+      .color_block.color_block_white
+    .color_chip
+      .color_tag #f3f7f7
+      .color_block.color_block_grey
+    h5 BUTTON EXAMPLE
+    .button 按鈕範例
+    .button.button_blue 按鈕範例
+    .button.button_yellow 按鈕範例
+    
+.content.content_white
+  .max_width
+    h5 Style Guideline
+    h1 品牌網頁視覺引導-40px 大標題  
+    h1.small_english English Style duideline for h1 title
+      .title_hr
+    br
+    h2 品牌網頁視覺引導-30px 中標題 
+    h2.small_english English Style duideline for h1 title
+    br  
+    h3 品牌網頁視覺引導-20px 小標題
+    h3.small_english English Style duideline for h1 title
+
+    hr
+    h5 VI COLORS
+    .color_chip
+      .color_tag #ffb336
+      .color_block.color_block_yellow
+    .color_chip
+      .color_tag #27232F
+      .color_block.color_block_blue
+    .color_chip
+      .color_tag #fffff
+      .color_block.color_block_white
+    .color_chip
+      .color_tag #f3f7f7
+      .color_block.color_block_grey
+    h5 BUTTON EXAMPLE
+    .button 按鈕範例
+    .button.button_blue 按鈕範例
+    .button.button_yellow 按鈕範例
+
+.content.content_blue
+  .max_width
+    h5 Style Guideline
+    h1 品牌網頁視覺引導-40px 大標題  
+    h1.small_english English Style duideline for h1 title
+      .title_hr
+    br
+    h2 品牌網頁視覺引導-30px 中標題 
+    h2.small_english English Style duideline for h1 title
+    br
+    h3 品牌網頁視覺引導-20px 小標題
+    h3.small_english English Style duideline for h1 title
+
+    hr
+    h5 VI COLORS
+    .color_chip
+      .color_tag #ffb336
+      .color_block.color_block_yellow
+    .color_chip
+      .color_tag #27232F
+      .color_block.color_block_blue
+    .color_chip
+      .color_tag #fffff
+      .color_block.color_block_white
+    .color_chip
+      .color_tag #f3f7f7
+      .color_block.color_block_grey
+    h5 BUTTON EXAMPLE
+    .button 按鈕範例
+    .button.button_blue 按鈕範例
+    .button.button_yellow 按鈕範例   
+---------------------------------------------
+【CSS】
+$color_yellow:#ffb336
+  
+ //深灰色大底 
+.content.content_gray
+ .max_width
+  h5 Style Guildline
+  h1 品牌視覺引導-40px 大標題
+  h1.small_english English style guildline for H1 title
+ 
+  .title_hr
+ 
+  h2 品牌視覺引導-30px 中標題
+  h2.small_english English style guildline for H2 title
+  h3 品牌視覺引導-20px 小標題
+  h3.small_english English style guildline for H3 title
+ 
+  hr
+ 
+  h5 VI Colors
+  .color_chip
+   .color_tag #ffb336
+   .color_block.color_block_yellow
+  .color_chip
+   .color_tag #003ca3
+   .color_block.color_block_blue
+  .color_chip
+   .color_tag #f3f7f7
+   .color_block.color_block_white
+  .color_chip
+   .color_tag #333333
+   .color_block.color_block_grey
+  
+  h5 BUTTON EXAMPLE
+  .button #按鈕範例
+  .button.button_blue #按鈕範例 
+  .button.button_yellow #按鈕範例
+ 
+ 
+ //白色大底
+.content.content_white
+ .max_width
+  h5 Style Guildline
+  h1 品牌視覺引導-40px 大標題
+  h1.small_english English style guildline for H1 title
+ 
+  .title_hr
+ 
+  h2 品牌視覺引導-30px 中標題
+  h2.small_english English style guildline for H2 title
+  h3 品牌視覺引導-20px 小標題
+  h3.small_english English style guildline for H3 title
+ 
+  hr
+ 
+  h5 VI Colors
+  .color_chip
+   .color_tag #e683e2
+   .color_block.color_block_pink
+  .color_chip
+   .color_tag #003ca3
+   .color_block.color_block_blue
+  .color_chip
+   .color_tag #f3f7f7
+   .color_block.color_block_white
+  .color_chip
+   .color_tag #333333
+   .color_block.color_block_grey
+  
+  h5 BUTTON EXAMPLE
+  .button #按鈕範例
+  .button.button_blue #按鈕範例 
+  .button.button_pink #按鈕範例
+ 
+
+ //深藍色大底 
+.content.content_deepblue
+ .max_width
+  h5 Style Guildline
+  h1 品牌視覺引導-40px 大標題
+  h1.small_english English style guildline for H1 title
+ 
+  .title_hr
+ 
+  h2 品牌視覺引導-30px 中標題
+  h2.small_english English style guildline for H2 title
+  h3 品牌視覺引導-20px 小標題
+  h3.small_english English style guildline for H3 title
+ 
+  hr
+ 
+  h5 VI Colors
+  .color_chip
+   .color_tag #5ee2ff
+   .color_block.color_block_lightblue
+  .color_chip
+   .color_tag #003ca3
+   .color_block.color_block_blue
+  .color_chip
+   .color_tag #f3f7f7
+   .color_block.color_block_white
+  .color_chip
+   .color_tag #333333
+   .color_block.color_block_grey
+  
+  h5 BUTTON EXAMPLE
+  .button #按鈕範例
+  .button.button_blue #按鈕範例 
+  .button.button_pink #按鈕範例
+ 
+$color_blue:#27232F
+$color_white:#f3f7f7
+$color_grey:#333
+$color_skyblue:#036EB8
+
+$font_base_size: 10px
+
+$max_content_width: 768px
+
+$button_border_width: 1px
+
+*
+  // border: solid 1px #ccc
+  position: relative
+
+@mixin size($w,$h)
+    width: $w
+    height: $h
+
+html,body
+  padding: 0px
+  margin: 0px
+ 
+.max_width
+  max-width: $max_content_width
+  margin-left: auto
+  margin-right: auto
+  
+.header
+  height: 300px
+  background-color: $color_blue
+  
+  & .icon
+    width: 150px
+    position: absolute
+    left: 50%
+    top: 50%
+    transform: translateX(-50%) translateY(-50%)  
+  
+.content
+  font-family: 'Roboto Condensed', 微軟正黑體
+  padding: 50px
+  
+  & h5
+    margin-top: 10px
+
+  & .title_hr
+    margin-top: 10px
+    border-bottom: solid 3px
+    width: 100px
+    
+  & h1
+    font-size: $font_base_size*4
+  & h2
+    font-size: $font_base_size*3
+  & h3
+    font-size: $font_base_size*2
+    
+  & h1.small_english
+    font-size: $font_base_size*2.4
+  & h2.small_english
+    font-size: $font_base_size*1.6
+  & h3.small_english
+    font-size: $font_base_size*1.2   
+    
+  & .small_english
+    margin-top: -15px
+    letter-spacing: 1px     
+
+  & .button
+    padding: 5px 25px
+    display: inline-block
+    border: solid $button_border_width $color_grey    
+    margin-right: 10px
+    letter-spacing: 2px
+    font-size: $font_base_size*1.5
+    font-weight: bold
+
+  & .button_blue
+    background-color: $color_blue
+    color: $color_white
+    font-weight: 500
+
+  & .button_yellow
+    background-color: $color_yellow
+    color: $color_blue
+    //font-weight: 500   
+
+  & .color_chip
+    display: inline-block
+    margin-right: 25px
+
+    & .color_block,&.color_tag
+      display: inline-block
+      vertical-align: middle
+
+    & .color_tag
+      width: 60px
+
+    & .color_block
+      +size(35px,35px)
+      border: solid 2px white
+
+    & .color_block_yellow
+      background-color: $color_yellow
+    & .color_block_blue
+      background-color: $color_blue
+    & .color_block_white
+      background-color: $color_white
+    & .color_block_grey
+      background-color: $color_grey
+    & .color_block_skyblue
+      background-color: $color_skyblue
+
+.content_grey
+  background-color: $color_grey
+  color: $color_white
+  & .small_english
+    color: $color_yellow
+  & .title_hr
+    border-color: $color_yellow    
+  & h1,& h2,& h3
+    font-weight: 500
+  & .button
+    border-color: $color_white
+    font-weight: 500
+  & .button_yellow
+    font-weight: bold
+
+.content_white
+  background-color: $color_white
+  color: $color_blue
+  & .small_english
+    color: $color_blue
+  & .title_hr
+    border-color: $color_yellow
+  & h1,& h2,& h3
+    //font-weight: 500
+  & .button
+    border-color: $color_blue
+    //font-weight: 500
+    
+.content_blue
+  background-color: $color_blue
+  color: $color_white
+  & .small_english
+    color: $color_yellow
+  & .title_hr
+    border-color: $color_yellow
+  & h1,& h2,& h3
+    font-weight: 500
+  & .button
+    border-color: $color_white
+    font-weight: 500
+  & .button_yellow
+    font-weight: bold
+    
+.content_skyblue
+  background-color: $color_skyblue
+  color: $color_white
+  & .small_english
+    color: $color_yellow
+  & .title_hr
+    border-color: $color_white
+  & h1,& h2,& h3
+    font-weight: 500
+  & .button
+    border-color: $color_white
+    font-weight: 500
+  & .button_yellow
+    font-weight: bold
